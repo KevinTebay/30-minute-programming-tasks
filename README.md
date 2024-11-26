@@ -1,5 +1,5 @@
 # 30-minute-programming-tasks
-Tasks completed in timed conditions
+Tasks which replicate the programming scenario in Paper 2
 
 | Task Name                    | Description                                                                    | 
 |------------------------------|--------------------------------------------------------------------------------|
